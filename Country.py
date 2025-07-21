@@ -3,7 +3,7 @@
 # Country
 
 def display_menu():
-    print("\nCOUNTRY MENU")
+    print("\nCOMMAND MENU")
     print("view - View a country")
     print("add  - Add a country")
     print("del  - Delete a country")
